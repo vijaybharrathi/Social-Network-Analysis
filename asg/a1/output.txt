@@ -1,0 +1,211 @@
+{
+  "candidates": [
+    [
+      "BernieSanders", 
+      "D"
+    ], 
+    [
+      "CarlyFiorina", 
+      "R"
+    ], 
+    [
+      "DrRandPaul", 
+      "R"
+    ], 
+    [
+      "GovMikeHuckabee", 
+      "R"
+    ], 
+    [
+      "HillaryClinton", 
+      "D"
+    ], 
+    [
+      "JebBush", 
+      "R"
+    ], 
+    [
+      "JimWebbUSA", 
+      "D"
+    ], 
+    [
+      "JoeBiden", 
+      "D"
+    ], 
+    [
+      "MartinOMalley", 
+      "D"
+    ], 
+    [
+      "RealBenCarson", 
+      "R"
+    ], 
+    [
+      "ScottWalker", 
+      "R"
+    ], 
+    [
+      "govchristie", 
+      "R"
+    ], 
+    [
+      "marcorubio", 
+      "R"
+    ], 
+    [
+      "realDonaldTrump", 
+      "R"
+    ], 
+    [
+      "tedcruz", 
+      "R"
+    ]
+  ], 
+  "democrat_counts": [
+    [
+      "Edward-Isaac Dovere", 
+      1
+    ], 
+    [
+      "Gov. Maggie Hassan", 
+      2
+    ], 
+    [
+      "JORGE RAMOS", 
+      2
+    ], 
+    [
+      "Natl Urban League", 
+      2
+    ], 
+    [
+      "Nick Gass", 
+      2
+    ], 
+    [
+      "Paul (PJ) Rieckhoff", 
+      1
+    ], 
+    [
+      "President Obama", 
+      2
+    ], 
+    [
+      "The First Lady", 
+      2
+    ], 
+    [
+      "The Lead CNN", 
+      2
+    ], 
+    [
+      "Univision Pol\u00edtica", 
+      2
+    ]
+  ], 
+  "democrats": [
+    "BernieSanders", 
+    "HillaryClinton", 
+    "JimWebbUSA", 
+    "JoeBiden", 
+    "MartinOMalley"
+  ], 
+  "num_edges": 286, 
+  "num_nodes": 139, 
+  "republican_counts": [
+    [
+      "Bill O'Reilly", 
+      4
+    ], 
+    [
+      "Bret Baier", 
+      7
+    ], 
+    [
+      "FoxNewsSunday", 
+      4
+    ], 
+    [
+      "Greta Van Susteren", 
+      3
+    ], 
+    [
+      "Joe Scarborough", 
+      3
+    ], 
+    [
+      "Joni Ernst", 
+      5
+    ], 
+    [
+      "Kentucky Lottery", 
+      6
+    ], 
+    [
+      "Megyn Kelly", 
+      7
+    ], 
+    [
+      "Newt Gingrich", 
+      3
+    ], 
+    [
+      "Paul Ryan", 
+      5
+    ]
+  ], 
+  "republican_scores": [
+    [
+      "CarlyFiorina", 
+      1
+    ], 
+    [
+      "DrRandPaul", 
+      2
+    ], 
+    [
+      "GovMikeHuckabee", 
+      5
+    ], 
+    [
+      "JebBush", 
+      4
+    ], 
+    [
+      "RealBenCarson", 
+      1
+    ], 
+    [
+      "ScottWalker", 
+      1
+    ], 
+    [
+      "govchristie", 
+      3
+    ], 
+    [
+      "marcorubio", 
+      1
+    ], 
+    [
+      "realDonaldTrump", 
+      0
+    ], 
+    [
+      "tedcruz", 
+      4
+    ]
+  ], 
+  "republicans": [
+    "CarlyFiorina", 
+    "DrRandPaul", 
+    "GovMikeHuckabee", 
+    "JebBush", 
+    "RealBenCarson", 
+    "ScottWalker", 
+    "govchristie", 
+    "marcorubio", 
+    "realDonaldTrump", 
+    "tedcruz"
+  ]
+}
